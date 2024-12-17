@@ -1,0 +1,22 @@
+ Day-: Wednesday Date-: 18/09/2024
+
+ 1] How we can create object using multiple ways?
+
+    Ans-: There are 45 ways to create object in java.
+    using new keyword, using newInstance(), using colne() method, using deserialization, using factory method
+
+ 2] Why multiple inheritance is not allowed in java.
+
+    Ans-: To prevent ambiguity problem, java won't provide support for multiple inheritance.
+    Consider class B and class c extends class A and contains one same method then there is
+    ambiguity problem to which method to call.
+
+ 3] Can constructors be inherited?
+    Inheritance concept is only applicable for classes so that we can not inherit constructors.
+
+ 4] Can we use final keyword for constructors?
+    The final keyword is not allowed for constructors. Only allowed keywords for constructors are
+    public, private, protected and default.
+
+ 5] What is POJO class?
+
